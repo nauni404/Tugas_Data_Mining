@@ -1,0 +1,101 @@
+Network,Duration,Content Rating,Genre,Rank,Rating
+Netflix ,52,18,"Life,  Drama,  Family ",1,>=8.8
+"Netflix,  tvN ",90,15,"Friendship,  Romance,  Life,  Medical ",2,>=8.8
+tvN ,70,15,"Thriller,  Romance,  Crime,  Melodrama ",3,>=8.8
+"Netflix,  tvN ",100,15,"Friendship,  Romance,  Life,  Medical ",4,>=8.8
+tvN ,77,15,"Psychological,  Life,  Drama,  Family ",5,>=8.8
+"Netflix,  tvN ",92,15,"Comedy,  Crime,  Life,  Drama ",6,>=8.8
+tvN ,100,15,"Comedy,  Romance,  Youth,  Family ",7,>=8.8
+"Netflix,  tvN ",75,15,"Psychological,  Comedy,  Romance,  Drama ",8,>=8.8
+tvN ,80,15,"Historical,  Mystery,  Comedy,  Romance ",9,>=8.8
+tvN ,63,15,"Thriller,  Mystery,  Psychological,  Melodrama ",10,>=8.8
+tvN ,75,15,"Thriller,  Mystery,  Sci-Fi ",11,>=8.8
+"Netflix,  tvN ",65,15,"Friendship,  Life,  Drama,  Family ",12,>=8.8
+tvN ,65,15,"Action,  Thriller,  Drama,  Fantasy ",13,>=8.8
+"Netflix,  tvN ",85,15,"Comedy,  Law,  Crime,  Drama ",14,>=8.8
+"Netflix,  tvN ",85,15,"Military,  Comedy,  Romance,  Political ",15,>=8.8
+jTBC ,75,15,"Mystery,  Psychological,  Drama,  Family ",16,>=8.8
+Netflix ,45,18,"Thriller,  Historical,  Horror,  Supernatural ",17,>=8.8
+"Netflix,  tvN ",80,15,"Military,  Historical,  Romance,  Melodrama ",18,>=8.8
+KBS2 ,60,15,"Action,  Thriller,  Mystery,  Romance ",19,>=8.8
+"Netflix,  tvN ",70,15,"Thriller,  Mystery,  Law,  Drama ",20,>=8.8
+tvN ,82,15,"Comedy,  Romance,  Fantasy,  Melodrama ",21,>=8.8
+"Netflix,  tvN ",80,15,"Comedy,  Romance,  Life ",22,>=8.8
+"Netflix,  OCN ",70,15,"Action,  Mystery,  Drama,  Supernatural ",23,>=8.8
+Netflix ,50,15,"Action,  Military,  Comedy,  Drama ",24,>=8.8
+Netflix ,51,18,"Thriller,  Historical,  Horror,  Political ",25,>=8.8
+SBS ,85,15,"Thriller,  Mystery,  Drama,  Family ",26,>=8.8
+MBC ,60,15,"Comedy,  Romance,  Youth,  Sports ",27,>=8.8
+tvN ,70,15,"Mystery,  Law,  Crime,  Drama ",28,>=8.8
+OCN ,65,15,"Action,  Mystery,  Comedy,  Supernatural ",29,>=8.8
+SBS ,75,15,"Thriller,  Mystery,  Drama,  Family ",30,>=8.8
+jTBC ,65,15,"Thriller,  Mystery,  Psychological,  Drama ",31,>=8.8
+SBS ,65,18,"Action,  Thriller,  Mystery,  Drama ",32,>=8.8
+SBS ,60,15,"Action,  Historical,  Drama,  Political ",33,>=8.8
+OCN ,67,18,"Thriller,  Mystery,  Horror,  Supernatural ",34,>=8.8
+"Netflix,  SBS ",75,15,"Friendship,  Comedy,  Youth,  Sports ",35,>=8.8
+KBS2 ,70,15,"Historical,  Romance,  Drama,  Melodrama ",36,>=8.8
+tvN ,75,18,"Thriller,  Mystery,  Sci-Fi ",37,<8.8
+Netflix ,52,18,"Horror,  Drama,  Sci-Fi,  Supernatural ",38,<8.8
+jTBC ,70,15,"Romance,  Life,  Drama,  Fantasy ",39,<8.8
+tvN ,70,15,"Comedy,  Romance,  Supernatural,  Political ",40,<8.8
+SBS ,70,15,"Thriller,  Mystery,  Law,  Drama ",41,<8.8
+SBS ,30,15,"Mystery,  Romance,  Drama,  Fantasy ",42,<8.8
+tvN ,70,15,"Life,  Drama,  Family,  Melodrama ",43,<8.8
+SBS ,70,15,"Romance,  Drama,  Medical,  Melodrama ",44,<8.8
+MBC ,62,15,"Psychological,  Comedy,  Romance,  Drama ",45,<8.8
+"Netflix,  tvN ",81,15,"Historical,  Romance,  Fantasy,  Political ",46,<8.8
+tvN ,80,15,"Friendship,  Business,  Life,  Drama ",47,<8.8
+"Netflix,  tvN ",80,15,"Historical,  Romance,  Fantasy,  Political ",48,<8.8
+Netflix ,50,18,"Action,  Thriller,  Crime ",49,<8.8
+tvN ,80,15,"Horror,  Comedy,  Romance,  Fantasy ",50,<8.8
+SBS ,60,15,"Romance,  Drama,  Medical ",51,<8.8
+SBS ,35,15,"Action,  Mystery,  Comedy,  Crime ",52,<8.8
+SBS ,60,15,"Historical,  Romance,  Melodrama ",53,<8.8
+KBS2 ,60,15,"Action,  Comedy,  Romance,  Melodrama ",54,<8.8
+SBS ,62,15,"Drama,  Sports,  Melodrama ",55,<8.8
+jTBC ,67,15,"Action,  Thriller,  Comedy,  Romance,  Drama,  Supernatural ",56,<8.8
+"jTBC,  Netflix ",65,15,"Mystery,  Law,  Crime,  Drama ",57,<8.8
+"Netflix,  tvN ",75,15,"Friendship,  Comedy,  Romance,  Crime ",58,<8.8
+OCN ,60,15,"Thriller,  Mystery,  Sci-Fi,  Fantasy ",59,<8.8
+OCN ,60,15,"Thriller,  Horror,  Psychological,  Drama ",60,<8.8
+SBS ,60,15,"Psychological,  Comedy,  Romance,  Drama ",61,<8.8
+jTBC ,65,15,"Comedy,  Life,  Youth,  Drama ",62,<8.8
+KBS2 ,65,15,"Action,  Historical,  Romance,  Political ",63,<8.8
+MBC ,35,15,"Mystery,  Law,  Drama,  Medical ",64,<8.8
+MBC ,65,13,"Food,  Historical,  Romance,  Medical ",65,<8.8
+KBS2 ,66,15,"Comedy,  Romance,  Drama,  Family ",66,<8.8
+MBC ,30,15,"Thriller,  Mystery,  Psychological,  Crime,  Drama ",67,<8.8
+KBS2 ,70,15,"Comedy,  Romance,  Life,  School,  Drama,  Family,  Supernatural ",68,<8.8
+KBS2 ,60,15,"Business,  Comedy,  Crime,  Drama ",69,<8.8
+"Netflix,  tvN ",62,15,"Thriller,  Mystery,  Law,  Drama ",70,<8.8
+SBS ,58,15,"Comedy,  Romance,  Drama,  Supernatural ",71,<8.8
+MBC ,65,15,"Historical,  Romance,  Melodrama,  Political ",72,<8.8
+jTBC ,60,15,"Friendship,  Romance,  Life,  Youth ",73,<8.8
+"jTBC,  Netflix ",68,15,"Mystery,  Comedy,  Family,  Fantasy ",74,<8.8
+jTBC ,60,15,"Action,  Thriller,  Romance,  Crime ",75,<8.8
+MBC ,35,15,"Thriller,  Mystery,  Drama,  Fantasy ",76,<8.8
+"Netflix,  tvN ",70,15,"Thriller,  Mystery,  Drama,  Political ",77,<8.8
+jTBC ,73,15,"Psychological,  Romance,  Melodrama ",78,<8.8
+Netflix ,60,18,"Action,  Thriller,  Mystery,  Drama ",79,<8.8
+tvN ,60,15,"Friendship,  Comedy,  Life,  Drama ",80,<8.8
+SBS ,62,15,"Horror,  Comedy,  Romance,  Supernatural ",81,<8.8
+KBS2 ,35,15,"Comedy,  Romance,  Drama,  Family ",82,<8.8
+OCN ,60,15,"Action,  Thriller,  Mystery,  Drama ",83,<8.8
+OCN ,65,18,"Action,  Thriller,  Psychological,  Crime ",84,<8.8
+OCN ,70,15,"Thriller,  Mystery,  Supernatural ",85,<8.8
+MBC ,60,15,"Action,  Thriller,  Historical,  Romance ",86,<8.8
+SBS ,70,15,"Thriller,  Mystery,  Drama,  Melodrama ",87,<8.8
+SBS ,60,15,"Mystery,  Law,  Romance,  Supernatural ",88,<8.8
+tvN ,60,15,"Comedy,  Romance,  Life,  Family ",89,<8.8
+MBC ,70,15,"Action,  Thriller,  Drama,  Sci-Fi ",90,<8.8
+KBS2 ,65,15,"Comedy,  Romance,  Drama ",91,<8.8
+tvN ,70,13,"Psychological,  Comedy,  Romance,  Drama ",92,<8.8
+"Netflix,  tvN ",80,15,"Historical,  Romance,  Fantasy,  Political ",93,<8.8
+"jTBC,  Viki ",60,15,"Life,  School,  Family,  Melodrama ",94,<8.8
+tvN ,69,15,"Friendship,  Business,  Comedy,  Romance ",95,<8.8
+"Netflix,  SBS ",70,15,"Action,  Thriller,  Mystery,  Crime ",96,<8.8
+SBS ,35,15,"Mystery,  Romance,  Life,  Medical ",97,<8.8
+"KBS2,  Netflix ",35,15,"Thriller,  Comedy,  Romance,  Drama,  Family ",98,<8.8
+tvN ,70,15,"Comedy,  Romance,  Life,  Drama ",99,<8.8
+KBS2 ,60,15,"Business,  Comedy,  Romance,  Sports ",100,<8.8
